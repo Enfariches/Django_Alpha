@@ -6,5 +6,5 @@
 - Добавлены страницы для каждой кнопки
 - Подключен шаблоны и JS скрипты от Bootstrap
 
-##Скрин:
+## Скрин:
 ![browser_WgufJ1sSza](https://user-images.githubusercontent.com/96489078/225306866-b6a0c913-d429-4768-895f-f9854f9c3d67.png)
